@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m Nick Radtke. I'm from New Berlin, Wisconsin, and went to school at the University of Wisconsin, Milwaukee. I currently live in Milwaukee.
 - 💞️ I'm passionate about family, baseball, problem-solving, swimming, and emerging technology.
 - 🌱 I’m currently looking for a new challenge I recently worked for Wisconsin's largest nonprofit healthcare company on over a dozen websites, console applications, nuget packages, MSSQL, and TFS 
