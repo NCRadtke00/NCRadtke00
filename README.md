@@ -1,6 +1,6 @@
 👋 I’m Nick Radtke, a software engineer from Milwaukee, Wisconsin with a background in healthcare, health insurance, automotive, and warehouse management systems. I bring a mix of technical expertise and creative problem-solving to every project I take on.
 
-I’m passionate about emerging technology, user experience design, and building clean, efficient, and scalable solutions. My work spans backend and frontend development, data management, and cloud integrations—always with a focus on writing maintainable code and delivering real business value.
+I’m passionate about emerging technology, user experience design, and building clean, efficient, and scalable solutions. My work spans backend and frontend development, data management, and cloud integrations, always with a focus on writing maintainable code and delivering real business value.
 
 Specialties & Strengths:
 ✨ Critical thinking, problem-solving, and public speaking
