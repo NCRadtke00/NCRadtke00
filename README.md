@@ -1,10 +1,19 @@
+👋 I’m Nick Radtke, a software engineer from Milwaukee, Wisconsin with a background in healthcare, health insurance, automotive, and warehouse management systems. I bring a mix of technical expertise and creative problem-solving to every project I take on.
 
-👋 Hi, I’m Nick Radtke. I'm from New Berlin, Wisconsin, and went to school at the University of Wisconsin, Milwaukee. I currently live in Milwaukee.
-- 💞️ I'm passionate about family, baseball, problem-solving, swimming, and emerging technology.
-- 🌱 I’m currently looking for a new challenge I recently worked for Wisconsin's largest nonprofit healthcare company on over a dozen websites, console applications, nuget packages, MSSQL, and TFS 
-- ✨ Some of my specialties include critical thinking, public speaking, relating information to others, responsive design, website optimization, domain-driven design, understanding the user experience, and writing clean, reusable code.
-- ✨ Experience with: C#, VB, SQL, MSSQL, .Net (Web Forms, Web APIs, MVC, Entity Framework), HTML, CSS, SCSS, Tailwind, JavaScript, TypeScript, React, Redux, NextJS, AdobeXD, Figma, MSTest, Jest, MySQL, NoSQL, APIs, TFS, AWS, Firebase, Stripe, Google APIs, Blue Yonder, and Oracle NetSuite
-- 📫 Reach out to me on Linkedin: https://www.linkedin.com/in/nicholasradtke/
+I’m passionate about emerging technology, user experience design, and building clean, efficient, and scalable solutions. My work spans backend and frontend development, data management, and cloud integrations—always with a focus on writing maintainable code and delivering real business value.
+
+Specialties & Strengths:
+✨ Critical thinking, problem-solving, and public speaking
+✨ Explaining complex information in simple, relatable ways
+✨ Responsive design, website optimization, and domain-driven design
+✨ Collaborating across teams to create intuitive, user-focused applications
+
+Technical Skills:
+C#, VB, SQL, MSSQL, ASP.NET (Web Forms, Web APIs, MVC, Entity Framework, Core), HTML, CSS, SCSS, JavaScript, TypeScript, React, Redux, Next.js, Tailwind, Java, Python, APIs, Azure, AWS, Firebase, Stripe, MySQL, NoSQL, Blue Yonder, Oracle NetSuite, AdobeXD, Figma, TFS, MSTest, Jest
+
+🌱 I’m always looking for new challenges where I can continue to grow, contribute to meaningful projects, and help bridge the gap between technology and people.
+
+- 📫 Reach out to me on Linkedin or my portfolio: https://www.nradtke.com https://www.linkedin.com/in/nicholasradtke/
 
 <!---
 NCRadtke00/NCRadtke00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
